@@ -1,6 +1,6 @@
 # React Shoping Cart Task
 
-1. Create a shopping cart using React that allows users to add and remove items from the cart. 
+1. Created a shopping cart using React that allows users to add and remove items from the cart. 
 2. The shopping cart will display a list of available products with their name and description.
 3. We can able to add items to the cart by clicking the "Add to Cart" button.
 4. When an item is added to the cart, the cart quantity number is increased.
